@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12b277e0-36d7-44fe-9456-5527ca85a952" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/ReqPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/ReqPage.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cw6IBfSk5RWcNTfPNTTSFx09od" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/myelectornvueproject-win32-x64/resources/app/dist/electron/main.js" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/plugin" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.29026982" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/plugin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.build" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12b277e0-36d7-44fe-9456-5527ca85a952" name="Default Changelist" comment="" />
+      <created>1591427226656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591427226656</updated>
+      <workItem from="1591427228894" duration="3053000" />
+      <workItem from="1591436596818" duration="16101000" />
+      <workItem from="1591499249165" duration="789000" />
+      <workItem from="1591500078714" duration="2062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591427440279">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="184" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.793@0.23.1440.793" timestamp="1591427440279" />
+    <state width="1396" height="203" key="GridCell.Tab.0.bottom" timestamp="1591436588001">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1396" height="203" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1591436588001" />
+    <state width="1396" height="203" key="GridCell.Tab.0.center" timestamp="1591436588000">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1396" height="203" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1591436588000" />
+    <state width="1396" height="203" key="GridCell.Tab.0.left" timestamp="1591436587999">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1396" height="203" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1591436587999" />
+    <state width="1396" height="203" key="GridCell.Tab.0.right" timestamp="1591436588001">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1396" height="203" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1591436588001" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1591427296591">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.793@0.23.1440.793" timestamp="1591427296591" />
+    <state x="298" y="206" width="1142" height="486" key="find.popup" timestamp="1591501289956">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="298" y="207" width="1142" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1591497942479" />
+    <state x="298" y="206" width="1142" height="486" key="find.popup/0.23.1440.793@0.23.1440.793" timestamp="1591501246731" />
+    <state x="298" y="206" width="1142" height="486" key="find.popup/0.23.1440.795@0.23.1440.795" timestamp="1591501289956" />
+    <state x="298" y="207" width="1142" height="486" key="find.popup/0.23.1440.798@0.23.1440.798" timestamp="1591500534950" />
+    <state x="385" y="191" key="run.anything.popup" timestamp="1591500234026">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="385" y="191" key="run.anything.popup/0.23.1440.798@0.23.1440.798" timestamp="1591500234026" />
+    <state x="438" y="278" width="670" height="681" key="search.everywhere.popup" timestamp="1591500351943">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="385" y="133" width="670" height="768" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591496193613" />
+    <state x="385" y="140" width="670" height="676" key="search.everywhere.popup/0.23.1440.793@0.23.1440.793" timestamp="1591435706502" />
+    <state x="438" y="278" width="670" height="681" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1591500351943" />
+  </component>
+</project>
